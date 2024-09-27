@@ -12,3 +12,7 @@ Add glew-2.1.0 to the main directory
 * **1 - 7** - Switch between different demo rooms
 * **Alt + Enter** - Toggle Fullscreen
 * **Esc** - Exit demo
+
+## BEST OF ALL: BLACK SCREEN FIX!
+For whoever out there is trying to play this demo but having a black screen (like mine)
+Enjoy! :)
